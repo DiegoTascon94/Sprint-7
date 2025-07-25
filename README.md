@@ -1,4 +1,4 @@
-# Análisis de Vehículos Usados en EE. UU.
+git add README.md# Análisis de Vehículos Usados en EE. UU.
 
 Este proyecto corresponde al Sprint 7 del programa de Data Analyst en TripleTen. El objetivo principal fue desarrollar una aplicación interactiva utilizando Streamlit para analizar un conjunto de datos de vehículos usados en Estados Unidos. La app permite visualizar de forma clara y sencilla diversos patrones que pueden influir en el precio de un vehículo.
 
@@ -41,6 +41,13 @@ La aplicación incluye las siguientes visualizaciones clave:
 - Plotly Express
 - Seaborn
 - Matplotlib
+
+## Aplicación Desplegada
+
+Puedes acceder a la aplicación en línea desde el siguiente enlace:
+
+👉 [https://sprint-7-psv8.onrender.com](https://sprint-7-psv8.onrender.com)
+
 
 ## Cómo Ejecutar la App
 
